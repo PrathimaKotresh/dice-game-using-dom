@@ -1,4 +1,4 @@
-
+function myFunction() {
   var randomNumber1 = Math.ceil(Math.random() * 6);
   document.querySelector(".img1").setAttribute("src", "images/dice" + randomNumber1 + ".png")
   var randomNumber2 = Math.ceil(Math.random() * 6);
