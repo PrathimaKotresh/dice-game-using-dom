@@ -10,3 +10,4 @@ function myFunction() {
   } else {
     document.querySelector("h1").innerHTML = "Draw"
   }
+}
